@@ -1,0 +1,19 @@
+/*Como se fosse um if*/
+@media screen and (max-width: 700px) {
+	header .container{
+		display: flex;
+		flex-direction: column; /*quando a tela for menor que 700 px vai jogar omenu para baixo do logo*/
+	}
+
+	.botao{
+		margin-top: 5px;
+		width: 300px;
+	}
+}
+
+/*Para quando aumentar a tela manter o texto concentrado a esquerda e não tão distribuído*/
+@media screen and (min-width: 1000px){
+	.descricao{
+		width: 50%;
+	}
+}
