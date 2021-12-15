@@ -1,4 +1,4 @@
-# Olá!! Nesse desafio recriei a interface do Netflix :smile: 
+# Olá!! Nesse desafio recriei a interface do Netflix :smile: 📺
 
 Recriei a interface do Netflix com algumas séries e filmes do meu gosto. Utilizei tecnologias como HTML5, CSS3 e JavaScript.
 
